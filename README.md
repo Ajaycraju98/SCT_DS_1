@@ -1,6 +1,8 @@
 # SCT_DS_1
+
 Skillcraft Technology Internship Task :
 Welcome to my internship task repository! This repository contains the task assigned during my internship as a Data science Intern at Skillcraft Technology. This task focuses on creating my skills in data visualization tools like Excel, power BI, etc. As a Data Science Intern at Skillcraft Technology, I’m working on real-world projects and building practical skills in data analysis.
+
 Task 1:
 Microsoft Excel is a widely used spreadsheet software developed by Microsoft and is known for its powerful data management, analysis, and visualization capabilities. It’s commonly used in fields like finance, data analysis, accounting, project management, and many others due to its versatility and ease of use.
 The bar chart created the given task is to visualize the distribution of genders in a population.
