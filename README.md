@@ -11,9 +11,10 @@ key features that enhance the effectiveness of bar charts:
 
 Bars:
 Represent individual categories or groups. Can be displayed vertically or horizontally, with each bar's length indicating its value.
+
 Axes:
-X-Axis: Represents categories (e.g., gender, products).
-Y-Axis: Shows values associated with each category (e.g., counts, percentages).
+*X-Axis: Represents categories (e.g., gender, products).
+*Y-Axis: Shows values associated with each category (e.g., counts, percentages).
 
 Labels:
 Display exact values or category names on each bar, making data interpretation clearer.
